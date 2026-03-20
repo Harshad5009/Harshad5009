@@ -1,5 +1,5 @@
 # :dizzy:Intro!:
-:zap: Code. Build. Innovate.<br><br>I'm Harshad -- a passionate developer building awesome things.<br>I love creating meaningful projects that solve real problems.<br><br>:computer: Tech Stack & Interests:<br>-Full Stack Developer<br>- AI/ML Learner<br>- Networking<br>- Problem Solving<br><br>
+:zap: Computer Engineer.<br><br>I'm Harshad -- a passionate developer building awesome things.<br>I love creating meaningful projects that solve real problems.<br><br>:computer: Tech Stack & Interests:<br>-Full Stack Developer<br>- AI/ML Learner<br>- Networking<br>- Problem Solving<br><br>
 
 ## :globe_with_meridians: Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshad_5009_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad-thok-b92b71292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshadthok5009@gmail.com)
