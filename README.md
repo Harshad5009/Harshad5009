@@ -1,4 +1,4 @@
-# About Me:
+# Intro:
 Code. Build. Innovate.<br><br>I'm Harshad - a passionate developer building awesome things.<br>I love creating meaningful projects that solve real problems.<br><br>Tech Stack & Interests:<br>- Web Development<br>- AI/ML (learning & experimenting)<br>- Networking<br>- Problem Solving<br><br>Believer in learning by doing.<br>
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
